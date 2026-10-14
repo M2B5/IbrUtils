@@ -1,4 +1,4 @@
-package com.github.M2B5.ibrUtils;
+package com.github.M2B5.ibrUtils.rods;
 
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.TextColor;

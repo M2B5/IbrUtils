@@ -1,10 +1,11 @@
-package com.github.M2B5.ibrUtils;
+package com.github.M2B5.ibrUtils.rods;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 import java.util.UUID;
 
+import com.github.M2B5.ibrUtils.IbrUtils;
 import org.joml.AxisAngle4f;
 import org.joml.Quaternionf;
 import org.joml.Vector3f;

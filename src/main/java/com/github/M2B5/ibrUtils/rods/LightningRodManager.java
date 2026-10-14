@@ -1,4 +1,4 @@
-package com.github.M2B5.ibrUtils;
+package com.github.M2B5.ibrUtils.rods;
 
 import lombok.Getter;
 import java.util.HashMap;
